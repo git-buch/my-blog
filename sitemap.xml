@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/tags/konferenz/</loc>
+    <loc>https://my-blog.gitbuch.info/tags/konferenz/</loc>
     <lastmod>2019-09-30T17:33:50+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://my-blog.gitbuch.info/</loc>
     <lastmod>2019-09-30T17:33:50+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://my-blog.gitbuch.info/posts/</loc>
     <lastmod>2019-09-30T17:33:50+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://my-blog.gitbuch.info/tags/</loc>
     <lastmod>2019-09-30T17:33:50+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/2019-09-30/</loc>
+    <loc>https://my-blog.gitbuch.info/posts/2019-09-30/</loc>
     <lastmod>2019-09-30T17:33:50+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/work/</loc>
+    <loc>https://my-blog.gitbuch.info/tags/work/</loc>
     <lastmod>2019-09-30T17:33:50+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/2019-09-19/</loc>
+    <loc>https://my-blog.gitbuch.info/posts/2019-09-19/</loc>
     <lastmod>2019-09-19T18:23:01+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/messe/</loc>
+    <loc>https://my-blog.gitbuch.info/tags/messe/</loc>
     <lastmod>2019-09-19T18:23:01+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://my-blog.gitbuch.info/categories/</loc>
   </url>
   
 </urlset>
