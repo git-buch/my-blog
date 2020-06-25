@@ -1,1 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on My Blog</title><link>http://example.org/tags/</link><description>Recent content in Tags on My Blog</description><generator>Hugo -- gohugo.io</generator><language>de</language><managingEditor>bernd@gitbuch.info (bernd)</managingEditor><webMaster>bernd@gitbuch.info (bernd)</webMaster><lastBuildDate>Mon, 30 Sep 2019 17:33:50 +0200</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Konferenz</title><link>http://example.org/tags/konferenz/</link><pubDate>Mon, 30 Sep 2019 17:33:50 +0200</pubDate><author>bernd@gitbuch.info (bernd)</author><guid>http://example.org/tags/konferenz/</guid><description/></item><item><title>Work</title><link>http://example.org/tags/work/</link><pubDate>Mon, 30 Sep 2019 17:33:50 +0200</pubDate><author>bernd@gitbuch.info (bernd)</author><guid>http://example.org/tags/work/</guid><description/></item><item><title>Messe</title><link>http://example.org/tags/messe/</link><pubDate>Thu, 19 Sep 2019 18:23:01 +0200</pubDate><author>bernd@gitbuch.info (bernd)</author><guid>http://example.org/tags/messe/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My Blog</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on My Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <managingEditor>bernd@gitbuch.info (bernd)</managingEditor>
+    <webMaster>bernd@gitbuch.info (bernd)</webMaster>
+    <lastBuildDate>Mon, 30 Sep 2019 17:33:50 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Konferenz</title>
+      <link>http://example.org/tags/konferenz/</link>
+      <pubDate>Mon, 30 Sep 2019 17:33:50 +0200</pubDate>
+      <author>bernd@gitbuch.info (bernd)</author>
+      <guid>http://example.org/tags/konferenz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work</title>
+      <link>http://example.org/tags/work/</link>
+      <pubDate>Mon, 30 Sep 2019 17:33:50 +0200</pubDate>
+      <author>bernd@gitbuch.info (bernd)</author>
+      <guid>http://example.org/tags/work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Messe</title>
+      <link>http://example.org/tags/messe/</link>
+      <pubDate>Thu, 19 Sep 2019 18:23:01 +0200</pubDate>
+      <author>bernd@gitbuch.info (bernd)</author>
+      <guid>http://example.org/tags/messe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
