@@ -1,0 +1,4 @@
+.post-preview img {
+    max-height: 150px;
+    object-fit: cover;
+}
