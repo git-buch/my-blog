@@ -1,5 +1,5 @@
 
-baseURL = "http://example.org/"
+baseURL = "https://my-blog.gitbuch.info/"
 languageCode = "de"
 title = "My Blog"
 theme = "beautifulhugo"
