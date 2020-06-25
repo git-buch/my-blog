@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://my-blog.gitbuch.info/tags/konferenz/</loc>
-    <lastmod>2019-09-30T17:33:50+02:00</lastmod>
+    <loc>https://my-blog.gitbuch.info/pages/about/</loc>
+    <lastmod>2020-06-23T18:57:39+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://my-blog.gitbuch.info/</loc>
+    <lastmod>2020-06-23T18:57:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://my-blog.gitbuch.info/pages/</loc>
+    <lastmod>2020-06-23T18:57:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://my-blog.gitbuch.info/tags/konferenz/</loc>
     <lastmod>2019-09-30T17:33:50+02:00</lastmod>
   </url>
   
